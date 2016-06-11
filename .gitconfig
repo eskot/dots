@@ -9,6 +9,7 @@
 [alias]
 	st = status
 	co = checkout
+	cob = checkout -b
 	ci = commit
 
 	# an attempt at easy 'add' feature. Greps status output against supplied regex
